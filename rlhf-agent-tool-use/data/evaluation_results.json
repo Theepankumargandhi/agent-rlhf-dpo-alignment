@@ -1,0 +1,28 @@
+{
+  "sft_baseline": {
+    "overall_accuracy": 0.9167,
+    "per_tool": {
+      "faq_search": 0.6667,
+      "order_status": 1.0,
+      "refund_policy": 1.0,
+      "raise_ticket": 1.0
+    }
+  },
+  "dpo_model": {
+    "overall_accuracy": 1.0,
+    "per_tool": {
+      "faq_search": 1.0,
+      "order_status": 1.0,
+      "refund_policy": 1.0,
+      "raise_ticket": 1.0
+    }
+  },
+  "training_info": {
+    "preference_pairs_used": 15,
+    "dpo_beta": 0.1,
+    "epochs": 3,
+    "learning_rate": 1e-05,
+    "gradient_accumulation_steps": 4,
+    "trained_at": "2026-05-10T18:13:35+00:00"
+  }
+}

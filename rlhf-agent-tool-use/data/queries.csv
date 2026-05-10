@@ -1,0 +1,61 @@
+query,correct_tool
+What are your business hours?,faq_search
+How do I contact customer support?,faq_search
+Do you offer international shipping?,faq_search
+What payment methods do you accept?,faq_search
+How do I create an account?,faq_search
+How do I reset my password?,faq_search
+Do you have a loyalty rewards program?,faq_search
+How long does standard shipping take?,faq_search
+Do you sell gift cards?,faq_search
+What warranty comes with your products?,faq_search
+How do I update my email address?,faq_search
+Is there a mobile app available?,faq_search
+What languages does your support team speak?,faq_search
+Do you offer student discounts?,faq_search
+How do I unsubscribe from marketing emails?,faq_search
+Where is my order #1042?,order_status
+Can you check the status of order 5678?,order_status
+I placed order #ORD-2201 three days ago — any update?,order_status
+Has order number 9910 shipped yet?,order_status
+What is the current status of order #4455?,order_status
+My order 7723 hasn't arrived — where is it?,order_status
+Track my package for order #3381,order_status
+Order #8812 was supposed to arrive yesterday,order_status
+When will order 6634 be delivered?,order_status
+Is order #2290 still in processing?,order_status
+Give me an update on order number 1175,order_status
+I need to know if order #5500 has been dispatched,order_status
+Order 4420 shows no tracking info — can you help?,order_status
+What happened to my shipment for order #7701?,order_status
+Has order #3399 left the warehouse yet?,order_status
+What is your return policy?,refund_policy
+How many days do I have to return an item?,refund_policy
+Can I get a refund on a digital product?,refund_policy
+What items are non-refundable?,refund_policy
+How long does a refund take to process?,refund_policy
+I want to know your exchange policy,refund_policy
+Can I return a gift I received?,refund_policy
+Do you offer refunds on sale items?,refund_policy
+How do I start a return request?,refund_policy
+Will I get a full refund if I return an unused item?,refund_policy
+What is the refund process for damaged goods?,refund_policy
+Do you do partial refunds?,refund_policy
+Is there a restocking fee for returns?,refund_policy
+Can I return an item bought as a gift?,refund_policy
+What proof do I need to get a refund?,refund_policy
+My product stopped working after two days,raise_ticket
+I received a completely wrong item in my order,raise_ticket
+The screen on my device is cracked right out of the box,raise_ticket
+I was charged twice for the same order,raise_ticket
+I never received my package but it says delivered,raise_ticket
+My account was hacked and I cannot log in,raise_ticket
+I want to file a formal complaint about your service,raise_ticket
+The item I received is missing several parts,raise_ticket
+I urgently need help — my order is damaged,raise_ticket
+Your website keeps crashing when I try to checkout,raise_ticket
+I have been waiting two weeks and still nothing has arrived,raise_ticket
+The product I got looks nothing like the photo on the website,raise_ticket
+I need to escalate an unresolved issue from last week,raise_ticket
+Please raise a ticket for a billing dispute on my account,raise_ticket
+I need immediate assistance — my package is lost,raise_ticket

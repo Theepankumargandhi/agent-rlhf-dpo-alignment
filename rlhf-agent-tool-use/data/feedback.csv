@@ -1,0 +1,25 @@
+query,selected_tool,correct_tool,rating,timestamp
+"How do I track my package?",refund_policy,refund_policy,thumbs_down,2026-05-10T17:46:29.497154+00:00
+"What is your warranty policy?",refund_policy,refund_policy,thumbs_down,2026-05-10T17:46:50.753714+00:00
+""What payment methods do you accept?"",refund_policy,faq_search,thumbs_down,2026-05-10T17:58:17.044560+00:00
+"How do I track my package",refund_policy,faq_search,thumbs_down,2026-05-10T18:03:06.592426+00:00
+"What are your business hours",refund_policy,faq_search,thumbs_down,2026-05-10T18:03:17.884642+00:00
+"What is your warranty policy",refund_policy,faq_search,thumbs_down,2026-05-10T18:03:25.150130+00:00
+"What are your store hours",refund_policy,faq_search,thumbs_down,2026-05-10T18:05:23.063572+00:00
+"Do you have a loyalty program",faq_search,faq_search,thumbs_down,2026-05-10T18:05:34.841843+00:00
+"What currencies do you accept",refund_policy,faq_search,thumbs_down,2026-05-10T18:05:44.410736+00:00
+"Is there a student discount",refund_policy,faq_search,thumbs_down,2026-05-10T18:05:53.543150+00:00
+"How do I cancel my order?",refund_policy,faq_search,thumbs_down,2026-05-10T18:06:02.411129+00:00
+"What is your exchange policy?",refund_policy,faq_search,thumbs_down,2026-05-10T18:06:16.632665+00:00
+"Do you price match?",refund_policy,faq_search,thumbs_down,2026-05-10T18:06:25.536148+00:00
+"How long does standard shipping take?",refund_policy,faq_search,thumbs_down,2026-05-10T18:06:32.369691+00:00
+"What countries do you ship to?",refund_policy,faq_search,thumbs_down,2026-05-10T18:06:43.502036+00:00
+"I need urgent help please",order_status,raise_ticket,thumbs_down,2026-05-10T18:11:13.592850+00:00
+"Device broken on arrival",order_status,raise_ticket,thumbs_down,2026-05-10T18:11:22.571608+00:00
+"Urgent issue with my order",order_status,raise_ticket,thumbs_down,2026-05-10T18:11:33.253590+00:00
+"If agent picks order_status correctly",refund_policy,refund_policy,thumbs_up,2026-05-10T18:46:52.330134+00:00
+"What are your hours?",refund_policy,refund_policy,thumbs_up,2026-05-10T18:46:53.565568+00:00
+"Product is broken",refund_policy,refund_policy,thumbs_up,2026-05-10T18:46:56.204273+00:00
+"I want a refund",refund_policy,refund_policy,thumbs_up,2026-05-10T18:46:58.464348+00:00
+"Can I get a refund?",refund_policy,refund_policy,thumbs_up,2026-05-10T18:48:53.345751+00:00
+"My laptop broke on arrival",raise_ticket,raise_ticket,thumbs_up,2026-05-10T18:48:56.017287+00:00

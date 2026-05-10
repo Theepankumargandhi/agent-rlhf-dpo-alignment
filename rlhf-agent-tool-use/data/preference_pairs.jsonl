@@ -1,0 +1,15 @@
+{"prompt": "\"What payment methods do you accept?\"", "chosen": "faq_search", "rejected": "refund_policy"}
+{"prompt": "How do I track my package", "chosen": "faq_search", "rejected": "refund_policy"}
+{"prompt": "What are your business hours", "chosen": "faq_search", "rejected": "refund_policy"}
+{"prompt": "What is your warranty policy", "chosen": "faq_search", "rejected": "refund_policy"}
+{"prompt": "What are your store hours", "chosen": "faq_search", "rejected": "refund_policy"}
+{"prompt": "What currencies do you accept", "chosen": "faq_search", "rejected": "refund_policy"}
+{"prompt": "Is there a student discount", "chosen": "faq_search", "rejected": "refund_policy"}
+{"prompt": "How do I cancel my order?", "chosen": "faq_search", "rejected": "refund_policy"}
+{"prompt": "What is your exchange policy?", "chosen": "faq_search", "rejected": "refund_policy"}
+{"prompt": "Do you price match?", "chosen": "faq_search", "rejected": "refund_policy"}
+{"prompt": "How long does standard shipping take?", "chosen": "faq_search", "rejected": "refund_policy"}
+{"prompt": "What countries do you ship to?", "chosen": "faq_search", "rejected": "refund_policy"}
+{"prompt": "I need urgent help please", "chosen": "raise_ticket", "rejected": "order_status"}
+{"prompt": "Device broken on arrival", "chosen": "raise_ticket", "rejected": "order_status"}
+{"prompt": "Urgent issue with my order", "chosen": "raise_ticket", "rejected": "order_status"}

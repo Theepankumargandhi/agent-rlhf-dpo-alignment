@@ -1,0 +1,12 @@
+{
+  "trained": true,
+  "pearson_correlation": 0.3477,
+  "discrimination_gap": 0.0103,
+  "correct_tool_avg_score": 0.5084,
+  "wrong_tool_avg_score": 0.4981,
+  "samples_used": 118,
+  "real_samples": 54,
+  "synthetic_samples": 80,
+  "trained_at": "2026-05-10T19:10:58+00:00",
+  "note": "Reward model loaded. Gap < 0.1 indicates limited discrimination \u2014 collect more real feedback."
+}
