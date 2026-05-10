@@ -154,14 +154,14 @@ rlhf-agent-tool-use/
 - Node.js 18+ (for the frontend)
 - ~2 GB disk (DistilBERT weights)
 
-### 1 — Install Python dependencies
+### 1 - Install Python dependencies
 
 ```bash
 cd rlhf-agent-tool-use
 pip install -r requirements.txt
 ```
 
-### 2 — Train the SFT model (~3 min on CPU)
+### 2 - Train the SFT model (~3 min on CPU)
 
 ```bash
 python training/train_sft.py
@@ -169,14 +169,14 @@ python training/train_sft.py
 # → prints per-epoch accuracy on the held-out test set
 ```
 
-### 3 — Start the FastAPI backend
+### 3 - Start the FastAPI backend
 
 ```bash
 uvicorn api.main:app --reload --port 8000
 # API docs → http://localhost:8000/docs
 ```
 
-### 4 — Start the Next.js frontend
+### 4 - Start the Next.js frontend
 
 ```bash
 cd ../rlhf-agent-frontend
@@ -185,7 +185,7 @@ npm run dev
 # → http://localhost:3000
 ```
 
-### 5 — Collect feedback, then run DPO (≥ 3 pairs required)
+### 5 - Collect feedback, then run DPO (≥ 3 pairs required)
 
 Use the chat interface at `http://localhost:3000` to send queries and rate the agent's tool selections with thumbs-up / thumbs-down. Thumbs-down votes where you specify the correct tool are automatically written to `data/preference_pairs.jsonl`.
 
@@ -199,7 +199,7 @@ python training/run_dpo.py
 # → prints SFT vs DPO comparison table
 ```
 
-### 6 — (Optional) Offline evaluation with confusion matrices
+### 6 - (Optional) Offline evaluation with confusion matrices
 
 ```bash
 python evaluation/compare_baseline_vs_dpo.py
