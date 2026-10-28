@@ -25,7 +25,7 @@
 │                                             │                           │
 │                                             ▼                           │
 │                                     Human Feedback                      │
-│                                       👍  or  👎                        │
+│                                         or                              │
 │                                     (+ correct tool)                    │
 │                                             │                           │
 │              ┌──────────────────────────────┘                           │
@@ -56,11 +56,11 @@
 
 | Tool | SFT Baseline | DPO Model | Improvement |
 |------|:------------:|:---------:|:-----------:|
-| `faq_search` | 66.7% | 100.0% | +33.3% ✅ |
+| `faq_search` | 66.7% | 100.0% | +33.3%  |
 | `order_status` | 100.0% | 100.0% | — |
 | `refund_policy` | 100.0% | 100.0% | — |
 | `raise_ticket` | 100.0% | 100.0% | — |
-| **Overall** | **91.7%** | **100.0%** | **+8.3% ✅** |
+| **Overall** | **91.7%** | **100.0%** | **+8.3% ** |
 
 Training config: β = 0.1 · LR = 1e-5 · 3 epochs · gradient accumulation steps = 4
 
